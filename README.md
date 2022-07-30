@@ -30,4 +30,4 @@ JavaScript   16 mins         ▓░░░░░░░░░░░░░░░░
 
 📈 **My Github Stats:**
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=surajmgr&show_icons=true&theme=gotham" alt="abhisheknaiidu" /></p>
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=surajmgr&show_icons=true&theme=gotham" alt="Suraj Pulami" /></p>
