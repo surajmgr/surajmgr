@@ -5,7 +5,7 @@
 <br/>
 **React & Node.js**: <a href="https://konnected-urn3.onrender.com/">Konnected: Learn Together</a>
 <br/>
-**HTML, CSS & JS**: <a href="https://surajmgr-portfolio.netlify.app/">Konnected: Learn Together</a>
+**HTML, CSS & JS**: <a href="https://surajmgr-portfolio.netlify.app/">Portfolio Website</a>
   <div width="100%">
   <a href="https://codesandbox.com/surajmgr" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="c" width="25" height="25"/> </a>
 <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="25" height="25"/> </a>
