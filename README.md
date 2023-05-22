@@ -1,11 +1,11 @@
 <h4 align="left"><a>🧑🏻‍💻 </a>Personal projects:</h3>
 
 
-**Flutter**: <a href="https://todo-v-a.netlify.app/">Todo Notes</a>
+<img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="15" height="15"/> **Flutter**: <a href="https://todo-v-a.netlify.app/">Todo Notes</a>
 <br/>
-**React & Node.js**: <a href="https://konnected-urn3.onrender.com/">Konnected: Learn Together</a>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="15" height="15"/> **React & Node.js**: <a href="https://konnected-urn3.onrender.com/">Konnected: Learn Together</a>
 <br/>
-**HTML, CSS & JS**: <a href="https://surajmgr-portfolio.netlify.app/">Portfolio Website</a>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="15" height="15"/> **HTML, CSS & JS**: <a href="https://surajmgr-portfolio.netlify.app/">Portfolio Website</a>
   <div width="100%">
   <a href="https://codesandbox.com/surajmgr" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="c" width="25" height="25"/> </a>
 <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="25" height="25"/> </a>
