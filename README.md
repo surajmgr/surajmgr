@@ -8,12 +8,6 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="15" height="15"/> **HTML, CSS & JS**: <a href="https://surajmgr-portfolio.netlify.app/" target="_blank">Portfolio Website</a>
 
 
-<h4 align="left"><a>🧑🏻‍💻 </a>Private projects:</h3>
-
-
-<img src="https://profilinator.rishav.dev/skills-assets/nextjs.png" alt="next" width="20" height="20"/> **Next in Vercel**: <a href="https://mtlvillain.vercel.app/" target="_blank">Mtl Villain</a>
-
-
 
 
   <div width="100%">
