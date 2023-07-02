@@ -1,3 +1,10 @@
+<h4 align="left"><a>🧑🏻‍💻 </a>Featured projects:</h3>
+
+
+<img src="https://profilinator.rishav.dev/skills-assets/nextjs.png" alt="next" width="20" height="20"/> **Next in Vercel**: <a href="https://mtlvillain.vercel.app/" target="_blank">Mtl Villain (Pvt)</a>
+
+
+
 <h4 align="left"><a>🧑🏻‍💻 </a>Personal projects:</h3>
 
 
